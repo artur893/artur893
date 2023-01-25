@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Gameflix && SimSprintSeries league app. 
+- 🌱 I’m currently learning React, Node.js.
+- 👯 I’m actively looking for a intern/junior job: React Front-End, Fullstack (Node.js).
+- 📫 How to reach me: artur.halemba@gmail.com
+
 <!--
 **artur893/artur893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
