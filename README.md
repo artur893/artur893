@@ -1,6 +1,6 @@
 # 💫 About Me:
-## Hi! My name is Artur Halemba<br>
-## I'm self-taught Fullstack Developer<br><br>
+### Hi! My name is Artur Halemba<br>
+#### I'm self-taught Fullstack Developer<br><br>
 🔭 I’m currently working on Gameflix && SimSprintSeries league app.<br>
 🌱 I’m currently learning React, Node.js.<br>
 👯 I’m actively looking for a intern/junior job: React Front-End, Fullstack (Node.js).<br>
