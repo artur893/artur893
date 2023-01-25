@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 - 🔭 I’m currently working on Gameflix && SimSprintSeries league app. 
 - 🌱 I’m currently learning React, Node.js.
